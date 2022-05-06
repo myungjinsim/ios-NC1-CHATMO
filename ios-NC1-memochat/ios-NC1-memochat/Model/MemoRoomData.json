@@ -1,0 +1,139 @@
+[
+    {
+        "id": 0,
+        "name": "타이포그래피",
+        "isFavorite": true,
+        "memo":[
+            {
+                "id": 0,
+                "content":"첫번째 타이포 메모",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 1,
+                "content":"두번째 타이포 메모",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "content":"세번째 타이포 메모",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            ]
+        
+    },
+    {
+        "id": 1,
+        "name": "아이디어",
+        "isFavorite": false,
+        "memo":[
+            {
+                "id": 0,
+                "content":"첫번째 아이디어 메모",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 1,
+                "content":"두번째 아이디어 메모",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "content":"세번째 아이디어 메모",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            ]
+        
+    },
+    
+    {
+        "id": 2,
+        "name": "로고 디자인",
+        "isFavorite": false,
+        "memo":[
+            {
+                "id": 0,
+                "content":"첫번째 로고 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 1,
+                "content":"두번쨰 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "content":"세번쨰 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            ]
+        
+    },
+    
+    {
+        "id": 3,
+        "name": "포스터 디자인",
+        "isFavorite": true,
+        "memo":[
+            {
+                "id": 0,
+                "content":"첫번째 아이디어 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 1,
+                "content":"두번쨰 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "content":"세번쨰 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            ]
+        
+    },
+    
+    {
+        "id": 4,
+        "name": "리플렛 디자인",
+        "isFavorite": false,
+        "memo":[
+            {
+                "id": 0,
+                "content":"첫번째 리플렛 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 1,
+                "content":"두번쨰 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "content":"세번쨰 채팅",
+                "date": "2022.05.05",
+                "isFavorite": false
+            },
+            ]
+        
+    },
+    
+
+]
+
+
